@@ -1,0 +1,346 @@
+date,time,haircut,price,hair_stylist,gender,type,rating
+01-07-2021,morning,hair,150,Asim,Male,regular,4
+01-07-2021,morning,hair,250,Viraj,Female,new,4.7
+01-07-2021,noon,beard,100,Atif,Male,regular,4.2
+01-07-2021,noon,hair,150,Asim,Male,new,3.7
+01-07-2021,noon,all,350,Viraj,Male,regular,4.8
+01-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+01-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+01-07-2021,noon,all,300,Asim,Male,regular,4.3
+01-07-2021,morning,hair,150,Asim,Male,regular,4
+01-07-2021,noon,hair,250,Viraj,Female,new,4.7
+01-07-2021,noon,beard,100,Atif,Male,regular,4.2
+01-07-2021,noon,hair,150,Asim,Male,new,3.7
+01-07-2021,noon,all,350,Viraj,Male,regular,4.8
+01-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+01-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+01-07-2021,morning,hair,150,Asim,Male,regular,4
+01-07-2021,noon,hair,250,Viraj,Female,new,4.7
+01-07-2021,noon,beard,100,Atif,Male,regular,4.2
+01-07-2021,noon,hair,150,Asim,Male,new,3.7
+01-07-2021,noon,all,350,Viraj,Male,regular,4.8
+01-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+01-07-2021,noon,all,300,Asim,Male,regular,4.3
+01-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+01-07-2021,morning,hair,150,Asim,Male,regular,4
+01-07-2021,noon,hair,250,Viraj,Female,new,4.7
+01-07-2021,noon,beard,100,Atif,Male,regular,4.2
+01-07-2021,mid noon,hair,150,Asim,Male,new,3.7
+01-07-2021,noon,all,350,Viraj,Male,regular,4.8
+01-07-2021,mid noon,beard,100,Atif,Male,new,4.1
+01-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+02-07-2021,morning,hair,200,Viraj,Female,new,4.7
+02-07-2021,noon,all,350,Viraj,Male,regular,5
+02-07-2021,morning,beard,100,Atif,Male,regular,5
+02-07-2021,noon,hair,150,Atif,Female,new,4.2
+02-07-2021,mid noon,hair,200,Viraj,Male,new,4.9
+02-07-2021,morning,all,300,Asim,Male,regular,5
+02-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+02-07-2021,morning,hair,200,Viraj,Female,regular,4.7
+02-07-2021,noon,all,350,Viraj,Male,regular,5
+02-07-2021,morning,beard,100,Atif,Male,regular,5
+02-07-2021,noon,hair,150,Atif,Female,new,4.2
+02-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+02-07-2021,morning,all,300,Asim,Male,regular,5
+02-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+02-07-2021,morning,hair,200,Viraj,Female,new,4.7
+02-07-2021,noon,all,350,Viraj,Male,regular,5
+02-07-2021,noon,beard,100,Atif,Male,new,5
+02-07-2021,noon,hair,150,Atif,Female,new,4.2
+02-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+02-07-2021,mid noon,all,300,Asim,Male,regular,5
+02-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+03-07-2021,morning,hair,150,Asim,Female,regular,3.9
+03-07-2021,morning,hair,150,Atif,Male,regular,5
+03-07-2021,noon,hair,150,Atif,Male,regular,4
+03-07-2021,noon,all,300,Atif,Male,new,4.1
+03-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+03-07-2021,noon,hair,150,Atif,Female,new,3.9
+03-07-2021,mid noon,all,300,Asim,Male,regular,5
+03-07-2021,morning,hair,150,Asim,Female,new,3.9
+03-07-2021,morning,hair,150,Atif,Male,regular,5
+03-07-2021,noon,hair,150,Atif,Male,regular,4
+03-07-2021,noon,all,300,Atif,Male,regular,4.1
+03-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+03-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+03-07-2021,noon,all,300,Asim,Male,regular,5
+03-07-2021,morning,hair,150,Asim,Female,regular,3.9
+03-07-2021,morning,hair,150,Atif,Male,new,5
+03-07-2021,noon,hair,150,Atif,Male,regular,4
+03-07-2021,noon,all,300,Atif,Male,regular,4.1
+03-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+03-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+03-07-2021,mid noon,all,300,Asim,Male,regular,5
+04-07-2021,morning,hair,150,Asim,Male,regular,4
+04-07-2021,morning,hair,250,Viraj,Female,new,4.7
+04-07-2021,noon,beard,100,Atif,Male,regular,4.2
+04-07-2021,noon,hair,150,Asim,Male,new,3.7
+04-07-2021,noon,all,350,Viraj,Male,regular,4.8
+04-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+04-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+04-07-2021,noon,all,300,Asim,Male,regular,4.3
+04-07-2021,morning,hair,150,Asim,Male,regular,4
+04-07-2021,noon,hair,250,Viraj,Female,new,4.7
+04-07-2021,noon,beard,100,Atif,Male,regular,4.2
+04-07-2021,noon,hair,150,Asim,Male,new,3.7
+04-07-2021,noon,all,350,Viraj,Male,regular,4.8
+04-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+04-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+04-07-2021,morning,hair,150,Asim,Male,regular,4
+04-07-2021,noon,hair,250,Viraj,Female,new,4.7
+04-07-2021,noon,beard,100,Atif,Male,regular,4.2
+04-07-2021,noon,hair,150,Asim,Male,new,3.7
+04-07-2021,noon,all,350,Viraj,Male,regular,4.8
+04-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+04-07-2021,noon,all,300,Asim,Male,regular,4.3
+04-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+04-07-2021,morning,hair,150,Asim,Male,regular,4
+04-07-2021,noon,hair,250,Viraj,Female,new,4.7
+04-07-2021,noon,beard,100,Atif,Male,regular,4.2
+04-07-2021,mid noon,hair,150,Asim,Male,new,3.7
+04-07-2021,noon,all,350,Viraj,Male,regular,4.8
+04-07-2021,mid noon,beard,100,Atif,Male,new,4.1
+04-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+05-07-2021,morning,hair,200,Viraj,Female,new,4.7
+05-07-2021,noon,all,350,Viraj,Male,regular,5
+05-07-2021,morning,beard,100,Atif,Male,regular,5
+05-07-2021,noon,hair,150,Atif,Female,new,4.2
+05-07-2021,mid noon,hair,200,Viraj,Male,new,4.9
+05-07-2021,morning,all,300,Asim,Male,regular,5
+05-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+05-07-2021,morning,hair,200,Viraj,Female,regular,4.7
+05-07-2021,noon,all,350,Viraj,Male,regular,5
+05-07-2021,morning,beard,100,Atif,Male,regular,5
+05-07-2021,noon,hair,150,Atif,Female,new,4.2
+05-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+05-07-2021,morning,all,300,Asim,Male,regular,5
+05-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+05-07-2021,morning,hair,200,Viraj,Female,new,4.7
+05-07-2021,noon,all,350,Viraj,Male,regular,5
+05-07-2021,noon,beard,100,Atif,Male,new,5
+05-07-2021,noon,hair,150,Atif,Female,new,4.2
+05-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+05-07-2021,mid noon,all,300,Asim,Male,regular,5
+05-07-2021,noon,all,350,Viraj,Male,regular,5
+05-07-2021,noon,beard,100,Atif,Male,new,5
+05-07-2021,noon,hair,150,Atif,Female,new,4.2
+05-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+05-07-2021,mid noon,all,300,Asim,Male,regular,5
+05-07-2021,noon,hair,150,Atif,Female,new,4.2
+05-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+05-07-2021,morning,all,300,Asim,Male,regular,5
+05-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+05-07-2021,morning,hair,200,Viraj,Female,new,4.7
+05-07-2021,noon,all,350,Viraj,Male,regular,5
+05-07-2021,noon,beard,100,Atif,Male,new,5
+05-07-2021,noon,hair,150,Atif,Female,new,4.2
+05-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+05-07-2021,mid noon,all,300,Asim,Male,regular,5
+06-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+06-07-2021,morning,hair,150,Asim,Female,regular,3.9
+06-07-2021,morning,hair,150,Atif,Male,regular,5
+06-07-2021,noon,hair,150,Atif,Male,regular,4
+06-07-2021,noon,all,300,Atif,Male,new,4.1
+06-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+06-07-2021,noon,hair,150,Atif,Female,new,3.9
+06-07-2021,mid noon,all,300,Asim,Male,regular,5
+06-07-2021,morning,hair,150,Asim,Female,new,3.9
+06-07-2021,morning,hair,150,Atif,Male,regular,5
+06-07-2021,noon,hair,150,Atif,Male,regular,4
+06-07-2021,noon,all,300,Atif,Male,regular,4.1
+06-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+06-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+06-07-2021,noon,all,300,Asim,Male,regular,5
+06-07-2021,morning,hair,150,Asim,Female,regular,3.9
+06-07-2021,morning,hair,150,Atif,Male,new,5
+06-07-2021,noon,hair,150,Atif,Male,regular,4
+06-07-2021,noon,all,300,Atif,Male,regular,4.1
+06-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+06-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+06-07-2021,mid noon,all,300,Asim,Male,regular,5
+06-07-2021,morning,hair,150,Asim,Female,regular,3.9
+06-07-2021,morning,hair,150,Atif,Male,new,5
+06-07-2021,noon,hair,150,Atif,Male,regular,4
+06-07-2021,noon,all,300,Atif,Male,regular,4.1
+06-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+06-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+06-07-2021,mid noon,all,300,Asim,Male,regular,5
+07-07-2021,morning,hair,150,Asim,Male,regular,4
+07-07-2021,morning,hair,250,Viraj,Female,new,4.7
+07-07-2021,noon,beard,100,Atif,Male,regular,4.2
+07-07-2021,noon,hair,150,Asim,Male,new,3.7
+07-07-2021,noon,all,350,Viraj,Male,regular,4.8
+07-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+07-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+07-07-2021,noon,all,300,Asim,Male,regular,4.3
+07-07-2021,morning,hair,150,Asim,Male,regular,4
+07-07-2021,noon,hair,250,Viraj,Female,new,4.7
+07-07-2021,noon,beard,100,Atif,Male,regular,4.2
+07-07-2021,noon,hair,150,Asim,Male,new,3.7
+07-07-2021,noon,all,350,Viraj,Male,regular,4.8
+07-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+07-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+07-07-2021,morning,hair,150,Asim,Male,regular,4
+07-07-2021,noon,hair,250,Viraj,Female,new,4.7
+07-07-2021,noon,beard,100,Atif,Male,regular,4.2
+07-07-2021,noon,hair,150,Asim,Male,new,3.7
+07-07-2021,noon,all,350,Viraj,Male,regular,4.8
+07-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+07-07-2021,noon,all,300,Asim,Male,regular,4.3
+07-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+07-07-2021,morning,hair,150,Asim,Male,regular,4
+07-07-2021,noon,hair,250,Viraj,Female,new,4.7
+07-07-2021,noon,beard,100,Atif,Male,regular,4.2
+07-07-2021,mid noon,hair,150,Asim,Male,new,3.7
+07-07-2021,noon,all,350,Viraj,Male,regular,4.8
+07-07-2021,mid noon,beard,100,Atif,Male,new,4.1
+07-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+08-07-2021,morning,hair,200,Viraj,Female,new,4.7
+08-07-2021,noon,all,350,Viraj,Male,regular,5
+08-07-2021,morning,beard,100,Atif,Male,regular,5
+08-07-2021,noon,hair,150,Atif,Female,new,4.2
+08-07-2021,mid noon,hair,200,Viraj,Male,new,4.9
+08-07-2021,morning,all,300,Asim,Male,regular,5
+08-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+08-07-2021,morning,hair,200,Viraj,Female,regular,4.7
+08-07-2021,noon,all,350,Viraj,Male,regular,5
+08-07-2021,morning,beard,100,Atif,Male,regular,5
+08-07-2021,noon,hair,150,Atif,Female,new,4.2
+08-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+08-07-2021,morning,all,300,Asim,Male,regular,5
+08-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+08-07-2021,morning,hair,200,Viraj,Female,new,4.7
+08-07-2021,noon,all,350,Viraj,Male,regular,5
+08-07-2021,noon,beard,100,Atif,Male,new,5
+08-07-2021,noon,hair,150,Atif,Female,new,4.2
+08-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+08-07-2021,mid noon,all,300,Asim,Male,regular,5
+08-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+08-07-2021,morning,hair,150,Asim,Female,regular,3.9
+08-07-2021,morning,hair,150,Atif,Male,regular,5
+08-07-2021,noon,hair,150,Atif,Male,regular,4
+08-07-2021,noon,all,300,Atif,Male,new,4.1
+09-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+09-07-2021,noon,hair,150,Atif,Female,new,3.9
+09-07-2021,mid noon,all,300,Asim,Male,regular,5
+09-07-2021,morning,hair,150,Asim,Female,new,3.9
+09-07-2021,morning,hair,150,Atif,Male,regular,5
+09-07-2021,noon,hair,150,Atif,Male,regular,4
+09-07-2021,noon,all,300,Atif,Male,regular,4.1
+09-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+09-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+09-07-2021,noon,all,300,Asim,Male,regular,5
+09-07-2021,morning,hair,150,Asim,Female,regular,3.9
+09-07-2021,morning,hair,150,Atif,Male,new,5
+09-07-2021,noon,hair,150,Atif,Male,regular,4
+09-07-2021,noon,all,300,Atif,Male,regular,4.1
+09-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+09-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+09-07-2021,mid noon,all,300,Asim,Male,regular,5
+10-07-2021,morning,hair,150,Asim,Male,regular,4
+10-07-2021,morning,hair,250,Viraj,Female,new,4.7
+10-07-2021,noon,beard,100,Atif,Male,regular,4.2
+10-07-2021,noon,hair,150,Asim,Male,new,3.7
+10-07-2021,noon,all,350,Viraj,Male,regular,4.8
+10-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+10-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+10-07-2021,noon,all,300,Asim,Male,regular,4.3
+10-07-2021,morning,hair,150,Asim,Male,regular,4
+10-07-2021,noon,hair,250,Viraj,Female,new,4.7
+10-07-2021,noon,beard,100,Atif,Male,regular,4.2
+10-07-2021,noon,hair,150,Asim,Male,new,3.7
+10-07-2021,noon,all,350,Viraj,Male,regular,4.8
+10-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+10-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+10-07-2021,morning,hair,150,Asim,Male,regular,4
+10-07-2021,noon,hair,250,Viraj,Female,new,4.7
+10-07-2021,noon,beard,100,Atif,Male,regular,4.2
+10-07-2021,noon,hair,150,Asim,Male,new,3.7
+10-07-2021,noon,all,350,Viraj,Male,regular,4.8
+10-07-2021,mid noon,beard,100,Atif,Male,regular,4.1
+10-07-2021,noon,all,300,Asim,Male,regular,4.3
+10-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+10-07-2021,morning,hair,150,Asim,Male,regular,4
+10-07-2021,noon,hair,250,Viraj,Female,new,4.7
+10-07-2021,noon,beard,100,Atif,Male,regular,4.2
+10-07-2021,mid noon,hair,150,Asim,Male,new,3.7
+11-07-2021,noon,all,350,Viraj,Male,regular,4.8
+11-07-2021,mid noon,beard,100,Atif,Male,new,4.1
+11-07-2021,mid noon,all,300,Asim,Male,regular,4.3
+11-07-2021,morning,hair,200,Viraj,Female,new,4.7
+11-07-2021,noon,all,350,Viraj,Male,regular,5
+11-07-2021,morning,beard,100,Atif,Male,regular,5
+11-07-2021,noon,hair,150,Atif,Female,new,4.2
+11-07-2021,mid noon,hair,200,Viraj,Male,new,4.9
+11-07-2021,morning,all,300,Asim,Male,regular,5
+11-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+11-07-2021,morning,hair,200,Viraj,Female,regular,4.7
+11-07-2021,noon,all,350,Viraj,Male,regular,5
+11-07-2021,morning,beard,100,Atif,Male,regular,5
+11-07-2021,noon,hair,150,Atif,Female,new,4.2
+11-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+11-07-2021,morning,all,300,Asim,Male,regular,5
+11-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+11-07-2021,morning,hair,200,Viraj,Female,new,4.7
+11-07-2021,noon,all,350,Viraj,Male,regular,5
+11-07-2021,noon,beard,100,Atif,Male,new,5
+11-07-2021,noon,hair,150,Atif,Female,new,4.2
+11-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+11-07-2021,mid noon,all,300,Asim,Male,regular,5
+11-07-2021,noon,all,350,Viraj,Male,regular,5
+11-07-2021,noon,beard,100,Atif,Male,new,5
+11-07-2021,noon,hair,150,Atif,Female,new,4.2
+11-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+11-07-2021,mid noon,all,300,Asim,Male,regular,5
+11-07-2021,noon,hair,150,Atif,Female,new,4.2
+11-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+11-07-2021,morning,all,300,Asim,Male,regular,5
+11-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+11-07-2021,morning,hair,200,Viraj,Female,new,4.7
+12-07-2021,noon,all,350,Viraj,Male,regular,5
+12-07-2021,noon,beard,100,Atif,Male,new,5
+12-07-2021,noon,hair,150,Atif,Female,new,4.2
+12-07-2021,mid noon,hair,200,Viraj,Male,regular,4.9
+12-07-2021,mid noon,all,300,Asim,Male,regular,5
+12-07-2021,mid noon,hair,150,Atif,Male,regular,4.1
+12-07-2021,morning,hair,150,Asim,Female,regular,3.9
+12-07-2021,morning,hair,150,Atif,Male,regular,5
+12-07-2021,noon,hair,150,Atif,Male,regular,4
+12-07-2021,noon,all,300,Atif,Male,new,4.1
+12-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+12-07-2021,noon,hair,150,Atif,Female,new,3.9
+12-07-2021,mid noon,all,300,Asim,Male,regular,5
+12-07-2021,morning,hair,150,Asim,Female,new,3.9
+12-07-2021,morning,hair,150,Atif,Male,regular,5
+12-07-2021,noon,hair,150,Atif,Male,regular,4
+12-07-2021,noon,all,300,Atif,Male,regular,4.1
+12-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+12-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+12-07-2021,noon,all,300,Asim,Male,regular,5
+12-07-2021,morning,hair,150,Asim,Female,regular,3.9
+12-07-2021,morning,hair,150,Atif,Male,new,5
+12-07-2021,noon,hair,150,Atif,Male,regular,4
+12-07-2021,noon,all,300,Atif,Male,regular,4.1
+12-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+12-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+12-07-2021,mid noon,all,300,Asim,Male,regular,5
+12-07-2021,morning,hair,150,Asim,Female,regular,3.9
+12-07-2021,morning,hair,150,Atif,Male,new,5
+12-07-2021,noon,hair,150,Atif,Male,regular,4
+12-07-2021,noon,all,300,Atif,Male,regular,4.1
+12-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+12-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+12-07-2021,mid noon,all,300,Asim,Male,regular,5
+12-07-2021,morning,hair,150,Atif,Male,new,5
+12-07-2021,noon,hair,150,Atif,Male,regular,4
+12-07-2021,noon,all,300,Atif,Male,regular,4.1
+12-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+12-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+12-07-2021,mid noon,all,300,Asim,Male,regular,5
+12-07-2021,morning,hair,150,Asim,Female,regular,3.9
+12-07-2021,morning,hair,150,Atif,Male,new,5
+12-07-2021,noon,hair,150,Atif,Male,regular,4
+12-07-2021,noon,all,300,Atif,Male,regular,4.1
+12-07-2021,noon,beard,120,Viraj,Male,regular,4.2
+12-07-2021,mid noon,hair,150,Atif,Female,new,3.9
+12-07-2021,mid noon,all,300,Asim,Male,regular,5
